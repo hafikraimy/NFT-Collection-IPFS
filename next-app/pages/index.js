@@ -134,7 +134,7 @@ export default function Home() {
         </div>
       </div>
         <footer className={styles.footer}>
-          Made with &#10084; by LW3Punks
+          Made with &#10084; by hafikraimy
         </footer>
    </div>
   )
